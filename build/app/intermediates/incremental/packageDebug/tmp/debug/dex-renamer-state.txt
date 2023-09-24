@@ -1,0 +1,4 @@
+#Sun Sep 24 18:13:43 WIB 2023
+base.0=/Users/mkurniafebrianto/learn-flutter/dicoding/dicoding_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
